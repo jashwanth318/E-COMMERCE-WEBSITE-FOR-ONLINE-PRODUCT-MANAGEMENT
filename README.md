@@ -9,7 +9,7 @@ The website demonstrates core web development principles using **HTML**, **CSS**
 
 ---
 
-## 👨‍💻 Developer
+## 👨‍💻 Fresher
 **Marati Jashwanth Kumar**  
 Department of Information Technology, Vasavi College of Engineering  
 **Academic Year:** 2025
